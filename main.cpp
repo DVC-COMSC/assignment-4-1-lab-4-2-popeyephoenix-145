@@ -52,4 +52,3 @@ int main() {
   cout << "Discount amount is " << discountAmount << endl;
   cout << "Total Price is " << totalCost << endl;
 }
-}
